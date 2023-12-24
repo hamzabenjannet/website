@@ -1,0 +1,143 @@
+{
+  "translation": {
+    "navbar": {
+      "menu": {
+        "title.0": "À propos",
+        "title.1": "Expérience",
+        "title.2": "Projets",
+        "titre.3": "Contact"
+      }
+    },
+    "navbarLanguageSwitcher": {
+      "buttonTitle": "Changer la langue",
+      "langue": {
+        "anglais": "english",
+        "french": "français"
+      }
+    },
+    "hero": {
+      "title": { "part.0": "Hi, je suis ", "part.1": "Hamza" },
+
+      "description": {
+        "part.0": "Je développe de superbes solutions informatique,",
+        "part.1": "Applications Web et Mobiles."
+      }
+    },
+    "about": {
+      "label": "Introduction",
+      "title": "Aperçu",
+      "description.content": "Je suis un ingénieur logiciel qualifié avec une expérience en JavaScript et TypeScript, avec plus de dix ans d'expertise dans des frameworks comme React, Node.js et MongoDB. J'apprends vite et je collabore étroitement avec les clients pour créons des solutions efficaces, évolutives et conviviales qui résolvent des problèmes du monde réel. Travaillons ensemble pour donner vie à vos idées!"
+    },
+    "serviceCard.service.title": {
+      "0": "Ingénieur logiciel",
+      "1": "Développeur React Native",
+      "2": "Développeur back-end",
+      "3": "Administrateur Cloud"
+    },
+    "experience": {
+      "label": "Ce que j'ai fait jusqu'à présent",
+      "title": "Expérience professionnelle.",
+
+      "experienceCard": {
+        "0": {
+          "title": "Ingénieur logiciel principal",
+          "company_name": "Relenfeize inc. (MAXapps)",
+          "date": "Octobre 2018 - Présent",
+          "points.0": "Développement d'une application mobile et serveur pour la synchronisation des données et multimédia avec IBM Maximo Enterprise Asset Management.",
+          "points.1": "Architecter et développer un framework web de collecte et de consultation des logs des API des applications.",
+          "points.2": "Développement d'un tableau de bord web/mobile pour la surveillance et la gestion des capteurs avec IBM Maximo.",
+          "points.3": "Supervision et formation des membres de l'équipe."
+        },
+        "1": {
+          "title": "Co-founder & CTO",
+          "company_name": "Branper Sarl.",
+          "date": "Mars 2017 - Présent",
+          "points.0": "Dirigé le recrutement, la formation et le mentorat de l'équipe, garantissant une main-d'œuvre qualifiée et cohérente.",
+          "points.1": "Géré les infrastructures sur site et Cloud, optimisant l'efficacité du projet.",
+          "points.2": "Développement d'applications Web pour la gestion et l'analyse des des enquête.",
+          "points.3": "Mise en œuvre d'une architecture de microservices robuste pour la collaboration et la gestion en temps réel.",
+          "points.4": "Développement d'API pour l'analyse des données et des sentiments, améliorant ainsi les capacités d'analyse d'un logiciel de productivité.",
+          "points.5": "Conçu et optimisé des bases de données relationnelles et non relationnelles pour divers besoins de projets."
+        },
+        "2": {
+          "title": "Chef de projet",
+          "company_name": "Visacom Sarl.",
+          "date": "Août 2017 - Octobre 2018",
+          "points.0": "J'ai dirigé le développement Web d'une application de petites annonces, garantissant une conception conviviale.",
+          "points.1": "Conception d'un web scraper pour extraire et organiser les données efficacement.",
+          "points.2": "Mise en œuvre de solutions de messagerie instantanée et d'audioconférence pour une communication transparente.",
+          "points.3": "Administré les infrastructures Cloud et sur site, garantissant des performances optimales.",
+          "points.4": "Gestion de projets de développement d'applications Web et mobiles, garantissant une livraison dans les délais.",
+          "points.5": "Fournir un mentorat aux stagiaires, contribuant au développement des compétences et à la réussite du projet."
+        },
+        "3": {
+          "title": "Développeur Full Stack",
+          "company_name": "Utopia Sarl.",
+          "date": "Septembre 2014 - Décembre 2015",
+
+          "points.0": "Développer et maintenir des applications Web à l'aide de React.js et d'autres technologies associées.",
+          "points.1": "Collaborer avec des équipes interfonctionnelles, notamment des concepteurs, des chefs de produit et d'autres développeurs, pour créer des produits de haute qualité.",
+          "points.2": "Mise en œuvre d'un design réactif et garantie d'une compatibilité entre navigateurs.",
+          "points.3": "Participer aux révisions de code et fournir des commentaires constructifs aux autres développeurs."
+        }
+      },
+
+      "learnmore": "En savoir plus",
+      "checkmylinkedin": "Consultez mon profil LinkedIn",
+      "hoptomygithub": "Rendez-vous sur mon Github",
+      "or": "ou"
+    },
+    "projects": {
+      "label": "Mon travail",
+      "title": "Projets.",
+
+      "description": "Avec plus d'une décennie de leadership et d'expertise technique, j'ai dirigé des équipes logicielles, développé des applications mobiles robustes et co-fondé une startup basée sur les données. Maîtrise de NodeJs, React Native, PHP, Java, et plus encore. , J'ai travaillé sur divers frameworks et outils. Les projets suivants présentent mes expériences à travers des exemples concrets de mon travail.",
+
+      "projectCard.link.title": "visitez le site Web de {{project_name}}",
+      "projectCard.image.alt": "{{project_name}} aperçu du site Web du projet",
+
+      "projectCard.description": {
+        "title": "description de {{project_name}}",
+        "button.less.title": "Afficher moins sur {{project_name}}",
+        "button.more.title": "Afficher plus sur {{project_name}}",
+
+        "0": "En permettant aux professionnels d'IBM Maximo, Maxapps est une application mobile dynamique facilitant des processus métier rationalisés, sécurisés et flexibles. En intégrant des technologies mobiles de pointe, les utilisateurs peuvent intégrer de manière transparente des affectations SIG, des améliorations de flux de travail et des médias riches (images HD , vidéos, audio) dans leurs demandes de service, garantissant ainsi des performances et une polyvalence optimales.",
+
+        "1": "Une plateforme innovante qui vous permet de créer et de gérer vos enquêtes, sondages et questionnaires. C'est un outil simple et intuitif qui vous permet de créer vos enquêtes en quelques clics. Vous pouvez également personnaliser vos enquêtes avec votre couleurs et votre logo. Fournissant une large boîte à outils de fonctionnalités, pour analyser et visualiser vos données, Branper vous permet de créer vos propres rapports et tableaux de bord.",
+
+        "2": "Un puissant outil SaaS pour la surveillance et l'écoute des réseaux sociaux, le suivi des comportements et la contextualisation des messages, combinant ML et IA pour détecter les langues et les dialectes et analyser les sentiments, cette solution vise à améliorer les expériences, à renforcer l'engagement et à se concentrer sur le comportement et besoins des clients, en fournissant des tableaux de bord KPI, des informations démographiques, en comparant les interactions sociales basées sur les mentions, la perception, le sentiment, l'engagement et en combinant les résultats pour permettre de faire des prédictions et d'améliorer l'expérience globale. ",
+
+        "3": "Une suite de logiciels client-serveur pour créer et utiliser des services d'hébergement de fichiers. Basé sur Nextcloud, il fournit des fonctionnalités similaires à Dropbox, Office 365 et Google Drive et intégré aux suites bureautiques Collabora Online. Il peut être hébergé dans le cloud ou sur site, fournissant un serveur dédié vs-code pour l'édition du code, également doté d'un planificateur de tâches et de flux de manipulations de fichiers comme l'OCR, ainsi qu'un cadre de système de chat",
+
+        "4": "Edidact est une plateforme de jeux éducatifs en ligne pour enfants, elle propose un ensemble de jeux éducatifs permettant aux enfants d'apprendre et de s'amuser en même temps, elle fournit également un ensemble d'outils permettant aux parents de suivre les progrès et les activités de leurs enfants. . La plateforme est construite sur une pile MERN et utilise Open Fire pour le système de chat.",
+
+        "5": "Club book est une librairie en ligne qui permet aux écrivains de publier leurs livres et de les vendre en ligne via la plateforme. Ce projet a été conçu dès le départ et développé avec PrestaShop, une plateforme de commerce électronique basée sur PHP. Le Le projet a été développé dans un environnement Agile."
+      }
+    },
+    "learnmore": "En savoir plus",
+    "contact.title": "Contact",
+    "contact.form.name.label": "Votre nom",
+    "contact.form.name.placeholder": "Quelle est votre bonne réputation",
+    "contact.form.name.title": "Entrez votre bon nom",
+    "contact.form.email.label": "Votre email",
+    "contact.form.email.placeholder": "Quelle est votre adresse email ?",
+    "contact.form.email.title": "Entrez votre adresse email",
+    "contact.form.message.label": "Votre message",
+    "contact.form.message.placeholder": "Quel est votre message ?",
+    "contact.form.message.title": "Entrez votre message",
+    "contact.form.submit.sending": "Envoi...",
+    "contact.form.submit.send": "Envoyer",
+    "contact.form.field.validate.required": "Ce champ est obligatoire",
+    "contact.form.field.validate.min": "Doit contenir au moins {{min}} caractères",
+    "contact.form.field.validate.max": "Doit contenir au maximum {{max}} caractères",
+
+    "contact.form.field.validate.alphabetic": "{{field_value}} Doit contenir uniquement des caractères alphabétiques",
+    "contact.form.field.validate.email": "Adresse email invalide",
+    "contact.form.field.validate.no_html_allowed": "Ne doit pas contenir de balises html",
+
+    "footer.title": "Explorez mes projets Musique & Photographie",
+    "footer.links.0.title": "Choisissez une mélodie pour en profiter",
+    "footer.links.1.title": "Récupérez une affiche sur le marché",
+    "footer.links.2.title": "Fork ce site Web sur Github"
+  }
+}

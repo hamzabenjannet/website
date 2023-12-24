@@ -1,0 +1,149 @@
+{
+  "translation": {
+    "navbar": {
+      "homeLinkTitle": "Hamza Ben jannet",
+      "homeLinkText": "The IT Artist",
+      "menu": {
+        "title.0": "About",
+        "title.1": "Experience",
+        "title.2": "Projects",
+        "title.3": "Contact"
+      }
+    },
+    "navbarLanguageSwitcher": {
+      "buttonTitle": "Change language",
+      "language": {
+        "english": "english",
+        "french": "français"
+      }
+    },
+    "hero": {
+      "title": { "part.0": "Hi, I'm ", "part.1": "Hamza" },
+
+      "description": {
+        "part.0": "I develop awesome user interfaces,",
+        "part.1": "web & mobile applications."
+      }
+    },
+    "about": {
+      "label": "Introduction",
+      "title": "Overview",
+      "description.content": "I'm a skilled software engineer with experience in JavaScript and TypeScript, with over decade of expertise in frameworks like React, Node.js and MongoDB. I'm a quick learner and I collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!"
+    },
+    "serviceCard.service.title": {
+      "0": "Software Engineer",
+      "1": "React Native Developer",
+      "2": "Backend Developer",
+      "3": "Cloud Administrator"
+    },
+    "experience": {
+      "label": "What I have done so far",
+      "title": "Work Experience.",
+
+      "experienceCard": {
+        "0": {
+          "title": "Lead Software engineer",
+          "company_name": "Relenfeize inc. (MAXapps)",
+          "date": "Octobor 2018 - Present",
+          "points.0": "Development of a mobile & server applications for data and multimedia synchronization with IBM Maximo enterprise asset management.",
+          "points.1": "Architecting and developing a web framework for collecting and consulting applications APIs logs.",
+          "points.2": "Developing a web/mobile dashboard for sensors monitoring and management with IBM Maximo.",
+          "points.3": "Supervision and training of team members."
+        },
+        "1": {
+          "title": "Co-founder & CTO",
+          "company_name": "Branper LLC.",
+          "date": "March 2017 - Present",
+          "points.0": "Led team recruitment, training, and mentorship, ensuring a skilled and cohesive workforce.",
+          "points.1": "Managed both on-premise and Cloud infrastructures, optimizing project efficiency.",
+          "points.2": "Spearheaded web application development for survey data management and analysis.",
+          "points.3": "Implemented a robust microservices architecture for real-time collaboration and management.",
+          "points.4": "Developed APIs for data and sentiment analysis, enhancing a productivity software analytics capabilities.",
+          "points.5": "Designed and optimized both relational and non-relational databases for diverse project needs."
+        },
+        "2": {
+          "title": "Project Manager",
+          "company_name": "Visacom LLC.",
+          "date": "August 2017 - October 2018",
+          "points.0": "Led web development for a classified ads application, ensuring user-friendly design.",
+          "points.1": "Engineered a web scraper to extract and organize data efficiently.",
+          "points.2": "Implemented instant messaging and audio conferencing solutions for seamless communication.",
+          "points.3": "Administered both Cloud and on-premise infrastructures, ensuring optimal performance.",
+          "points.4": "Managed projects for web and mobile application development, ensuring timely delivery.",
+          "points.5": "Provided mentorship to interns, contributing to skill development and project success."
+        },
+        "3": {
+          "title": "Full stack Developer",
+          "company_name": "Utopia LLC.",
+          "date": "September 2014 - December 2015",
+
+          "points.0": "Developing and maintaining web applications using React.js and other related technologies.",
+          "points.1": "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+          "points.2": "Implementing responsive design and ensuring cross-browser compatibility.",
+          "points.3": "Participating in code reviews and providing constructive feedback to other developers."
+        }
+      },
+
+      "learnmore": "Learn more",
+      "checkmylinkedin": "Check out my LinkedIn profile",
+      "hoptomygithub": "Hop to my Github",
+      "or": "or"
+    },
+    "projects": {
+      "label": "My work",
+      "title": "Projects.",
+
+      "description": "Bringing over a decade of leadership and technical expertise, I've led software teams, delivered robust mobile applications, and co-founded a data-driven startup. Proficient in NodeJs, React Native, PHP, Java, and more, I've worked across diverse frameworks and tools. Following projects showcases my experiences through real-world examples of my work.",
+
+      "projectCard.link.title": "visit {{project_name}} website",
+      "projectCard.image.alt": "{{project_name}} project website preview",
+
+      "projectCard.name": {
+        "0": "Maxapps",
+        "1": "Branper",
+        "2": "Sentinel",
+        "3": "Cloud Desk",
+        "4": "Edidact",
+        "5": "Club book"
+      },
+
+      "projectCard.description": {
+        "title": "{{project_name}} description",
+        "button.less.title": "Show less about {{project_name}}",
+        "button.more.title": "Show more about {{project_name}}",
+
+        "0": "Empowering IBM Maximo professionals, Maxapps a mobile application that is dynamic facilitating streamlined, secure, and flexible business processes. Integrating cutting-edge mobile technologies, users can seamlessly incorporate GIS assignments, workflow enhancements, and rich media (HD images, videos, audio) into their service requests, ensuring optimal performance and versatility.",
+        "1": "An Innovative platform that allows you to create and manage your surveys, polls, and questionnaires. It is a simple and intuitive tool that allows you to create your surveys in a few clicks. You can also customize your surveys with your colors and your logo. Providing a broad toolbox of features, to analyze and visualize your data, Branper allows you to create your own reports and dashboards.",
+        "2": "A powerful SaaS tool for social media monitoring and listening, tracking behavior and contextualizing messages, combining ML & AI to detect languages and dialects and analyze sentiments, this solution aims to improve experiences, enhance engagement and focus on the behavior and customers needs, providing KPIs Dashboards, Demographics insights, benchmark social interactions based on Mentions, Perception, Sentiment, Engagement and combine the results to allow for Predictions to be made and improve the overall experience.",
+        "3": "A suite of client-server software for creating and using file hosting services. Based on Nextcloud it provides functionality similar to Dropbox, Office 365 and Google Drive and integrated with office suites Collabora Online. It can be hosted in the cloud or on-premises, providing a vs-code dedicated server for code editing, also packed with a Tasks scheduler and files manipulations flows like OCR, alongside a chat system framework",
+        "4": "Edidact is an Online Educational Games Platform for Children, it provides a set of educational games for children to learn and have fun at the same time, it also provides a set of tools for parents to monitor their children's progress and activities. The platform is built upon a MERN stack and uses Open Fire for the chat system.",
+        "5": "Club book is an online book store that allows writers to publish their books and sell them online through the platform. This project was designed from the ground up and developed with PrestaShop, a PHP-based e-commerce platform. The project was developed in an Agile environment."
+      }
+    },
+    "contact.label": "Get in touch",
+    "contact.title": "Contact",
+    "contact.form.name.label": "Your Name",
+    "contact.form.name.placeholder": "What's your good name",
+    "contact.form.name.title": "Enter your good name",
+    "contact.form.email.label": "Your email",
+    "contact.form.email.placeholder": "What's your email address?",
+    "contact.form.email.title": "Enter your email address",
+    "contact.form.message.label": "Your Message",
+    "contact.form.message.placeholder": "What's your message?",
+    "contact.form.message.title": "Enter your message",
+    "contact.form.submit.sending": "Sending...",
+    "contact.form.submit.send": "Send",
+    "contact.form.field.validate.required": "This field is required",
+    "contact.form.field.validate.min": "Must be at least {{min}} characters",
+    "contact.form.field.validate.max": "Must be at most {{max}} characters",
+
+    "contact.form.field.validate.alphabetic": "{{field_value}} Must contain alphabetic characters only",
+    "contact.form.field.validate.email": "Invalid email address",
+    "contact.form.field.validate.no_html_allowed": "Must not contain html tags",
+
+    "footer.title": "Explore my Music & Photography projects",
+    "footer.links.0.title": "Peak a tune to enjoy",
+    "footer.links.1.title": "Grab a poster from the marketplace",
+    "footer.links.2.title": "Fork this website on Github"
+  }
+}

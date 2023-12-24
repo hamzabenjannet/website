@@ -18,7 +18,7 @@ function StarWrapper(Component, idName) {
         <span
           {...{
             className: "hash-span",
-            id: { idName },
+            id: idName,
           }}
         ></span>
 

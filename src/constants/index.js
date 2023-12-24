@@ -462,7 +462,7 @@ const footer = {
     {
       title: "footer.links.2.title",
       underline: "[github.com/hamzabenjnnet/website]",
-      href: "https://github.com/hamzabenjnnet/website",
+      href: "https://github.com/hamzabenjannet/website",
       reactIconBs: "BsGithub",
     },
   ],
